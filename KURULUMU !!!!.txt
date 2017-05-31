@@ -1,6 +1,10 @@
+
+www.instagram.com/delosemree/
+
+-------------------------------
 Kurulum
 -------------------------------
-1-) cd Dracnmap / Dracnmap nerde ise artık klasörü açın.
+1-) cd Dracnmap / Dracnmap nerde ise artik klasÃ¶rÃ¼ aÃ§in.
 
 2-)chmod +x dracnmap-tr.sh
 
