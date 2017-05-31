@@ -1,0 +1,7 @@
+Kurulum
+-------------------------------
+1-) cd Dracnmap / Dracnmap nerde ise artýk klasörü açýn.
+
+2-)chmod +x dracnmap-tr.sh
+
+3-)./dracnmap-tr.sh
